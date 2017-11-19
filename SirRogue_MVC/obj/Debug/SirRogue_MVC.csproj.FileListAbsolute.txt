@@ -1,0 +1,10 @@
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\bin\Debug\SirRogue_MVC.exe.config
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\bin\Debug\SirRogue_MVC.exe
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\bin\Debug\SirRogue_MVC.pdb
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\obj\Debug\SirRogue_MVC.csprojResolveAssemblyReference.cache
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\obj\Debug\SirRogue_MVC.Properties.Resources.resources
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\obj\Debug\SirRogue_MVC.csproj.GenerateResource.Cache
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\obj\Debug\SirRogue_MVC.exe
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\obj\Debug\SirRogue_MVC.pdb
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\obj\Debug\SirRogue_MVC.StartForm.resources
+D:\MyProjects\SirRogue_MVC\SirRogue_MVC\obj\Debug\SirRogue_MVC.QuestForm.resources
